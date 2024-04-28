@@ -1,0 +1,10 @@
+chicken
+dog
+cat
+mouse
+hand
+face
+arm
+leg
+head
+sport
